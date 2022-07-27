@@ -1,3 +1,5 @@
+![👑 I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFONeER0IaL-Q/profile-displaybackgroundimage-shrink_350_1400/0/1658937864580?e=1664409600&v=beta&t=7EcweRB24Rlsg5nf_9IYmNO1H5tD1Th6HpDt2N0qKUk)
+
 <h1 align="center">Hi 👋, I'm Md Hafijur Rahoman</h1>
 <h3 align="center">I am Web Developer from Bangladesh</h3>
 
@@ -11,30 +13,22 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on [github](https://github.com/Hafijur191)
-
-- 🤝 I’m looking for help with [ReactJS](https://github.com/Hafijur191)
-
-- 👨‍💻 All of my projects are available at [https://www.hafijur.ml](https://www.hafijur.ml)
-
-- 📝 I regularly write articles on [https://www.hafijur191.ml](https://www.hafijur191.ml)
+- 👯 I’m looking to collaborate on [GitHub](https://github.com/Hafijur191)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **Hafijur2191@Gmail.Com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hafijur191](https://www.linkedin.com/in/hafijur191)
-
-- ⚡ Fun fact **I am Web Developer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://fb.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://twitter.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://fb.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://instagram.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://codepen.io/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafijur191" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
